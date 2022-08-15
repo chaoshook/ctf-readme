@@ -6,3 +6,5 @@ https://github.com/MoeGuoH/EasyPHPWaf
 https://github.com/gchq/CyberChef/
 # 机器学习
 https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes
+# notion替代品
+https://www.libhunt.com/r/AFFiNE
