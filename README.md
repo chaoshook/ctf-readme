@@ -8,3 +8,7 @@ https://github.com/gchq/CyberChef/
 https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes
 # notion替代品
 https://www.libhunt.com/r/AFFiNE
+AFFiNE
+Outline
+AppFlowy
+focalboard
